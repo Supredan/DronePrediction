@@ -1,0 +1,7 @@
+classes = 1
+train = /home/weis_group/Danyuheng/darknet/train.txt
+valid = /home/weis_group/Danyuheng/darknet/test.txt
+names = /home/weis_group/Danyuheng/darknet/cfg/drone.names
+backup = backup/
+
+
